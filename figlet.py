@@ -1,3 +1,5 @@
+# Output the text in chosen font (in figlet), if no arguments -> random font
+
 from pyfiglet import Figlet
 import random
 import sys
